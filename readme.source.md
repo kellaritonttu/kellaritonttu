@@ -92,7 +92,7 @@
       { tag: 'DevOps',  bg: 'rgba(255,69,0,0.12)',    border: '#ff4500', color: '#ff4500' },
       { tag: 'AWS',     bg: 'rgba(255,140,66,0.12)',   border: '#ff8c42', color: '#ff8c42' },
       { tag: 'GCP',     bg: 'rgba(61,184,106,0.12)',   border: '#3db86a', color: '#3db86a' },
-      { tag: 'Python',  bg: 'rgba(168,197,168,0.12)',  border: '#a8c5a8', color: '#a8c5a8' },
+      { tag: 'Python',  bg: 'rgba(168,197,168,0.12)',  border: '#4ade80', color: '#4ade80' },
     ].map(({ tag, bg, border, color }) => (
       <div key={tag} style={{
         display: 'flex',
